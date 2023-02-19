@@ -5,4 +5,5 @@
 
 Для чего: Посоревноваться с коллегами на кофе-поинте, пока горят дедлайны 
 
-# Вот, как это выглядит: https://drive.google.com/drive/folders/1xQgNigZ6Hj060nKHMhQwuJBUOH_KmkbH
+## Вот, как это выглядит: 
+https://drive.google.com/drive/folders/1xQgNigZ6Hj060nKHMhQwuJBUOH_KmkbH
